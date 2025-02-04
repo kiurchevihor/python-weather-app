@@ -9,7 +9,3 @@
 
 
 # LOGICAL OPERATORS
-
-age = 7
-if age > 6 and age < 8:
-    print("You have to pay child price")
